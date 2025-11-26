@@ -5,6 +5,10 @@ A full-stack, AI-driven code review platform built with the **MERN stack** and i
 > 🚀 Empower developers with instant AI-powered feedback and make the code review process smarter, faster, and more efficient.
 
 ---
+## 🚀 Live Demo
+
+🔗 [Check it out here](code-review-liard.vercel.app)  
+---
 
 ## 📌 Features
 
@@ -47,5 +51,8 @@ A full-stack, AI-driven code review platform built with the **MERN stack** and i
 ✅ Faster code reviews in solo/team projects
 
 ✅ Teaching tool for beginner programmers
+
+
+
 
 
