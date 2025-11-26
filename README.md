@@ -7,7 +7,7 @@ A full-stack, AI-driven code review platform built with the **MERN stack** and i
 ---
 ## 🚀 Live Demo
 
-🔗 [Check it out here](code-review-liard.vercel.app)  
+🔗 [Check it out here](https://code-review-liard.vercel.app/)  
 ---
 
 ## 📌 Features
